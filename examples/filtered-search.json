@@ -1,0 +1,14 @@
+{
+  "origin": "CGK",
+  "destination": "DPS",
+  "departureDate": "2026-12-15",
+  "passengers": 1,
+  "cabinClass": "economy",
+  "filters": {
+    "maxPrice": 1000000,
+    "maxStops": 0,
+    "maxDuration": 150
+  },
+  "sortBy": "best_value",
+  "limit": 5
+}
