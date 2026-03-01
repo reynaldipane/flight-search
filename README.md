@@ -1,6 +1,6 @@
 # Flight Search & Aggregation System
 
-A high-performance flight search aggregation service built in Go that combines results from multiple Indonesian airline providers into a unified API.
+A flight search aggregation service built in Go that combines results from multiple Indonesian airline providers into a unified API.
 
 ## Overview
 
